@@ -1,0 +1,37 @@
+.buy{
+    margin-right: 10px;
+    color: white;
+}
+.our-menu{
+    margin-left: 150px;
+}
+
+.our-menu li{
+    
+}
+.our-menu li a{
+      text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: black;
+    
+}
+.our-menu  li a:hover{
+    
+}
+.jakir{
+    width: 200px;
+
+}
+/* responsive part */
+@media(max-width:320px){
+    .res-img{
+       width: 0px;
+       height: 200px;
+
+    }
+}
+
+
+/* responsive part end */
